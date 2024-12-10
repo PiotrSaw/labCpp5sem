@@ -19,6 +19,6 @@ int main()
         else lista.push_back(liczba);
     }
     for (list<int>::iterator it = lista.begin(); it != lista.end(); ++it) {
-        cout << *it << "  ";  // Wyœwietlanie ka¿dego elementu
+        cout << *it << "  ";  // Wyswietlanie kazdego elementu
     }
 }
