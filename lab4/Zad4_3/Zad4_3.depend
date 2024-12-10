@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1729848442 source:d:\users\piotr sawecki\documents\zaawansowany c++\zad4_3\main.cpp
+	<iostream>
+	"Citizen.h"
+	"City.h"
+	<vector>
+
+1729674412 source:d:\users\piotr sawecki\documents\zaawansowany c++\zad4_3\src\citizen.cpp
+	"Citizen.h"
+	<iostream>
+
+1729674391 d:\users\piotr sawecki\documents\zaawansowany c++\zad4_3\include\citizen.h
+	<string>
+
+1729848665 source:d:\users\piotr sawecki\documents\zaawansowany c++\zad4_3\src\city.cpp
+	"City.h"
+	<iostream>
+	<map>
+
+1729848329 d:\users\piotr sawecki\documents\zaawansowany c++\zad4_3\include\city.h
+	<vector>
+	"Citizen.h"
+

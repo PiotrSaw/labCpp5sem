@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1730282693 source:d:\users\piotr sawecki\documents\zaawansowany c++\zad5_4\main.cpp
+	<iostream>
+	"Dictionary.h"
+
+1730283100 source:d:\users\piotr sawecki\documents\zaawansowany c++\zad5_4\src\dictionary.cpp
+	"Dictionary.h"
+	<iostream>
+
+1730283113 d:\users\piotr sawecki\documents\zaawansowany c++\zad5_4\include\dictionary.h
+	<string>
+	<map>
+

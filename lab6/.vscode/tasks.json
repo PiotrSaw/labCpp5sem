@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build with Boost",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-I", "C:/boost_1_82_0",  // Ścieżka do katalogu Boost
+                "${file}",                // Plik do kompilacji
+                "-o",                     // Parametr wyjściowy
+                "${fileDirname}/${fileBasenameNoExtension}.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Build with Boost"
+        }
+    ]
+}

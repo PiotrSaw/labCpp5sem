@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729032370 source:d:\users\piotr sawecki\documents\zaawansowany c++\zad3_3\main.cpp
+	<iostream>
+	"Array.h"
+
+1729032442 d:\users\piotr sawecki\documents\zaawansowany c++\zad3_3\include\array.h
+	<iostream>
+

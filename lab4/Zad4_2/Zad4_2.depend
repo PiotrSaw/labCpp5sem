@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1729669253 source:d:\users\piotr sawecki\documents\zaawansowany c++\zad4_2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<list>
+

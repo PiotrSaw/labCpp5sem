@@ -1,0 +1,33 @@
+#include <iostream> // Importowanie biblioteki do wejscia i wyjscia
+using namespace std;
+
+/*
+Funkcja glowna programu
+Rozpoczynamy tutaj dzialanie aplikacji
+*/
+
+/*
+//komentarz
+*/
+//kom1
+//kom2
+//komentarze
+//komentarze
+//komentarze
+
+int main()
+{
+    int a = 5; /* Zmienna przechowujaca wartosc 5 */
+    int b = 10; // Zmienna przechowujaca wartosc 10
+    int c = a + b; /* Wyliczamy sume 
+                       a i b, zapisujemy w c */
+    cout << "Suma: " << c << endl; // Wyswietlenie wyniku
+    
+    /* Wyswietlenie wartosci
+    zmiennej a, na koniec pracy programu */
+    cout << "Wartosc a: " << a << endl; /* To jest takze komentarz */
+    cout << "Wartosc a: " << a << endl; // To jest takze komentarz
+    cout << "Wartosc a: " << a << endl; // To jest takze komentarz
+
+    return 0; // Zakonczenie programu
+}

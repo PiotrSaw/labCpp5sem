@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1728428770 source:d:\users\piotr sawecki\documents\zaawansowany c++\zad2_3\main.cpp
+	<iostream>
+	"MeanBufor.h"
+	"MaxBufor.h"
+	"Bufor.h"
+
+1728428739 source:d:\users\piotr sawecki\documents\zaawansowany c++\zad2_3\src\bufor.cpp
+	<iostream>
+	"Bufor.h"
+
+1728428311 d:\users\piotr sawecki\documents\zaawansowany c++\zad2_3\include\bufor.h
+
+1728426373 source:d:\users\piotr sawecki\documents\zaawansowany c++\zad2_3\src\meanbufor.cpp
+	"MeanBufor.h"
+
+1728426076 d:\users\piotr sawecki\documents\zaawansowany c++\zad2_3\include\meanbufor.h
+	"Bufor.h"
+
+1728428699 source:d:\users\piotr sawecki\documents\zaawansowany c++\zad2_3\src\maxbufor.cpp
+	"MaxBufor.h"
+	<iostream>
+
+1728427912 d:\users\piotr sawecki\documents\zaawansowany c++\zad2_3\include\maxbufor.h
+	"Bufor.h"
+
