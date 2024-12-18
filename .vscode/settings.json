@@ -61,6 +61,7 @@
     "iterator": "cpp",
     "iostream": "cpp",
     "iosfwd": "cpp",
-    "fstream": "cpp"
+    "fstream": "cpp",
+    "tuple": "cpp"
   }
 }
