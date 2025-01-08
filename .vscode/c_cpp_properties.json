@@ -4,7 +4,9 @@
             "name": "windows-gcc-x64",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/boost_1_86_0"
+                "C:/boost_1_86_0",
+                "D:/Users/Piotr Sawecki/Documents/zaawansowany c++/lab12/googletest",
+                "D:/Users/Piotr Sawecki/Documents/zaawansowany c++/lab12/googletest/googletest/include"
             ],
             "compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
             "cStandard": "${default}",
